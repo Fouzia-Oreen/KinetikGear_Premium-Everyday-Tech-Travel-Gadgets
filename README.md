@@ -1,9 +1,15 @@
 <div align="center">
+<p align="center">
+  <img src="https://res.cloudinary.com/fouziaoreen/image/upload/v1783265848/kinetikgear-logo_cynrkp.png" alt="Updraft Logo" height="80">
+</p>
 
-# Kinetik Gear
-### Premium Everyday Tech & Travel Gadget Storefront
+<h1 align="center">
+  Kinetik Gear — Premium Tech & Travel Gadget Store
+</h1>
 
-A production-ready e-commerce platform built for showcasing and retailing premium everyday carry (EDC) gear, smart workspace essentials, and portable tech with an optimized, lightning-fast global cart ecosystem.
+<p align="center">
+  <strong>A production-ready e-commerce platform built for showcasing and retailing premium everyday carry (EDC) gear, smart workspace essentials, and portable tech with an optimized, lightning-fast global cart ecosystem..</strong>
+</p>
 
 <br>
 
